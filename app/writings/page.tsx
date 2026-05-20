@@ -9,7 +9,7 @@ export default function WritingsPage() {
         <p className="mb-2 text-xs font-semibold uppercase tracking-[0.25em] text-[#f472b6]">
           Thoughts & Reflections
         </p>
-        <h1 className="text-5xl font-light uppercase tracking-tight">Writings</h1>
+        <h1 className="text-5xl font-light uppercase tracking-tight">Memos</h1>
         <p className="mt-4 text-lg text-gray-500">
           Faith, AI, life, learning — unfiltered. Tagged so you can find what resonates.
         </p>
